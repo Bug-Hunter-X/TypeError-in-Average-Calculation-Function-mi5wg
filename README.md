@@ -1,0 +1,1 @@
+This repository contains a Python example demonstrating a TypeError that arises from attempting to calculate the average of a list containing mixed data types (integers and strings). The bug.py file showcases the error, while bugSolution.py offers a corrected version that includes robust error handling and data type validation.
